@@ -6,6 +6,8 @@ O sistema permite tanto o envio de notificações automáticas baseadas em event
 
 A automação é orquestrada pelo n8n através de workflows integrando APIs REST, autenticação via Bearer Token e lógica orientada a eventos.
 
+<img width="1080" height="1350" alt="telegram-bot" src="https://github.com/user-attachments/assets/562e0819-c056-4bac-b3fd-4c10092e6dc2" />
+
 ---
 
 ## 🧠 Arquitetura
